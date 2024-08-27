@@ -18,15 +18,15 @@
 }
 
 .diferenciais__item--missao {
-    background-image: url(icone-relogio.png);
+    background-image: url(img/icone-relogio.png);
 }
 
 .diferenciais__item--visao {
-    background-image: url(icone-quimica.png);
+    background-image: url(img/icone-quimica.png);
 }
 
 .diferenciais__item--valores {
-    background-image: url(icone-dinheiro.png);
+    background-image: url(img/icone-dinheiro.png);
 }
 
 .item__titulo {
